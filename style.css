@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: #352f5b;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+header {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.card-deck {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    max-width: 400px;
+    height: 300px;
+}
+
+.card img {
+    width: 400px;
+}
